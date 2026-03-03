@@ -1,12 +1,14 @@
 # 📺 YouTube — Além do Algoritmo
 
-Curadoria de canais do YouTube com conteúdo relevante, educativo e consistente.
+Curadoria de canais do YouTube organizados por categoria, priorizando conteúdo
+consistente, educativo e com alto valor prático.
 
 ---
 
+## 🎨 Design & Criatividade
+
 ### Kevandram
 - 🔗 https://www.youtube.com/@kevandram
-- 🗂️ Categoria: Design & Criatividade
 - 🌍 Idioma: Inglês
 
 Canal focado em processos criativos, design visual e técnicas em Blender,
@@ -22,11 +24,8 @@ impulsionado pelo algoritmo.
 ---
 
 <!--
-Template para novos canais:
-
 ### Nome do Canal
 - 🔗 link
-- 🗂️ Categoria
 - 🌍 Idioma
 
 Descrição curta.
