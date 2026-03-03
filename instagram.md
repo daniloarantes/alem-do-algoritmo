@@ -1,11 +1,25 @@
-# 📸 Instagram — Além do Algoritmo
+-# 📸 Instagram — Além do Algoritmo
 
 Curadoria de perfis do Instagram organizados por categoria, com foco em conteúdo
 que entrega valor real e vai além de tendências passageiras.
 
 ---
 
-## 💻 Tecnologia & Desenvolvimento
+## Impressão 3D
+
+### 🧊 3dcomcarol
+- 🔗 https://www.instagram.com/3dcomcarol?igsh=MXU2ODdleGtnOHo1Mg==
+- 🌍 Português 
+
+Ótimas dicas de Impressão 3D. 
+
+**Motivo da curadoria:**  
+Excelentes dicas de impressão 3D com filamentos flexíveis.
+
+**Tags:**  
+#impressao3d
+
+
 
 <!--
 ### Nome do Perfil
