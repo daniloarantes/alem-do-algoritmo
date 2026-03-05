@@ -23,6 +23,16 @@ impulsionado pelo algoritmo.
 
 ---
 
+### Nome do Canal
+- 🔗 https://www.youtube.com/@pixlways
+- 🌍 Inglês
+
+**Motivo da curadoria:**  
+Excelentes tutoriais de desenho 3d com Blender.
+
+**Tags:**  
+#design3d #blender 
+
 <!--
 ### Nome do Canal
 - 🔗 link
