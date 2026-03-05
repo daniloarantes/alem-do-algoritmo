@@ -19,6 +19,17 @@ Excelentes dicas de impressão 3D com filamentos flexíveis.
 **Tags:**  
 #impressao3d
 
+---
+
+### loftedgoods - Brian Hendriks
+- 🔗 https://www.instagram.com/loftedgoods 
+- 🌍 Inglês
+
+**Motivo da curadoria:**  
+Designer de produtos 3D com exelentes dicas e insights de produtos.
+
+**Tags:**  
+#design3d #impressao3d
 
 
 <!--
