@@ -7,19 +7,17 @@ bem escrito e utilidade real (referência, aprendizado, ferramentas e guias).
 
 ## 💻 Tecnologia & Desenvolvimento
 
-### Nome do Site
-- 🔗 https://exemplo.com
-- 🧩 Tipo: Documentação | Blog | Referência | Curso | Ferramenta | Comunidade
-- 🌍 Idioma: PT-BR | EN | ES
-- 💰 Acesso: Gratuito | Freemium | Pago
-
-Descrição curta do que o site oferece e para que serve.
+### Blender Studio
+- 🔗 https://studio.blender.org/training/
+- 🧩 Tipo: Cursos oficias Blender
+- 🌍 Idioma: EN
+- 💰 Acesso: Gratuito
 
 **Motivo da curadoria:**  
-Por que vale favoritar (clareza, profundidade, confiabilidade, atualizações, exemplos).
+Excelente referência oficial para treinamento gratuito da ferramente Blender para modelagem 3d.
 
 **Tags:**  
-#tag1 #tag2 #tag3
+#blender #cursos #3d
 
 ---
 
