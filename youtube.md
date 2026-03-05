@@ -23,7 +23,7 @@ impulsionado pelo algoritmo.
 
 ---
 
-### Nome do Canal
+### Pixlways
 - 🔗 https://www.youtube.com/@pixlways
 - 🌍 Inglês
 
